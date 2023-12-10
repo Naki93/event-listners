@@ -1,0 +1,19 @@
+body{
+    padding: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: red;
+}
+
+button{
+    background-color: aqua;
+    color: black;
+    padding: .5rem, 1rem;
+    width: 5em;
+    height: 2em;
+    border-radius: 5px;
+    cursor: pointer;
+    border:none;
+}
